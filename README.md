@@ -12,7 +12,8 @@
 
 
 ## Technologies Used
-- Unity 3D Game Engine 
+- Unity 3D Game Engine
+- XRP EVM Blockchain
 - Remix IDE for Solidity Programming
 - Web3 Library to Connect Unity with blockchain
 - Blender and Photoshop for UI/UX
